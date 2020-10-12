@@ -4,7 +4,7 @@ import Links from './components/Links';
 import Nav from './components/Nav';
 
 class App extends Component {
-  render() {
+  render(){
     return (
     <React.Fragment>
         <Nav />
